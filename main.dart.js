@@ -62327,25 +62327,27 @@ $1(a){return new A.f_(null)},
 $S:26}
 A.uu.prototype={}
 A.nC.prototype={
-L(a){var s,r,q,p,o,n,m,l,k,j=null,i=4281009750,h="Gotu",g=4294956407,f=4294196102,e=t.w,d=A.bk(a,j,e).w.a.b,c=A.bk(a,j,e).w.a.a
-e=new A.QA()
-s=A.cH(j,100,100)
-r=d/4
+L(a){var s,r,q,p,o,n,m,l,k,j,i=null,h=4281009750,g="Gotu",f=4294956407,e=4294196102,d=t.w,c=A.bk(a,i,d).w.a.b,b=A.bk(a,i,d).w.a.a
+d=new A.QA()
+s=A.cH(i,100,100)
+r=c/4
 q=A.cR(new A.aK(100,100))
-r=A.bi(j,A.hf(A.tq("https://i.ibb.co/qBPN4HP/pp-modified.png",j,j,j),j,j),B.j,j,j,new A.bG(B.H,j,j,q,j,j,B.F),j,r,new A.az(0,d/10,0,d/20),j,j,j,r)
+r=A.bi(i,A.hf(A.tq("https://i.ibb.co/qBPN4HP/pp-modified.png",i,i,i),i,i),B.j,i,i,new A.bG(B.H,i,i,q,i,i,B.F),i,r,new A.az(0,c/10,0,c/20),i,i,i,r)
 q=A.cR(new A.aK(100,100))
-q=A.bi(j,A.hf(A.c5("Prajyot Pawar",j,j,A.bE(j,j,new A.x(g),j,j,j,j,j,h,j,j,30,B.E,j,B.bj,j,j,!0,j,j,j,j,j,j,j,j),B.ej),j,j),B.j,j,j,new A.bG(B.H,j,j,q,j,j,B.F),j,d/13,j,j,j,j,j)
+q=A.bi(i,A.hf(A.c5("Prajyot Pawar",i,i,A.bE(i,i,new A.x(f),i,i,i,i,i,g,i,i,30,B.E,i,B.bj,i,i,!0,i,i,i,i,i,i,i,i),B.ej),i,i),B.j,i,i,new A.bG(B.H,i,i,q,i,i,B.F),i,c/13,i,i,i,i,i)
 p=A.cR(new A.aK(100,100))
-p=A.bi(j,A.hf(A.c5("Click on any one \ud83d\udc47 \n and get Connected \u2795 with me.",j,j,A.bE(j,j,new A.x(g),j,j,j,j,j,h,j,j,20,B.E,j,j,j,j,!0,j,j,j,j,j,j,j,j),B.ej),j,j),B.j,j,j,new A.bG(B.H,j,j,p,j,j,B.F),j,d/8,j,j,j,j,j)
-o=c*0.15
+p=A.bi(i,A.hf(A.c5("Click on any one \ud83d\udc47 \n and get Connected \u2795 with me.",i,i,A.bE(i,i,new A.x(f),i,i,i,i,i,g,i,i,20,B.E,i,i,i,i,!0,i,i,i,i,i,i,i,i),B.ej),i,i),B.j,i,i,new A.bG(B.H,i,i,p,i,i,B.F),i,c/8,i,i,i,i,i)
+o=b*0.15
 n=A.cR(new A.aK(100,100))
-m=c*0.2
-n=A.dw(!1,!0,A.bi(j,A.tq("https://blog.waalaxy.com/wp-content/uploads/2021/01/LinkedIn-Symbole-768x432.png",B.i1,m,m),B.j,j,j,new A.bG(B.H,j,j,n,j,j,B.F),j,o,j,j,j,j,o),j,!0,j,j,j,j,j,j,j,j,j,new A.QB(e),j,j,j,j)
+o=A.dw(!1,!0,A.bi(i,A.tq("https://i.ibb.co/r5s9VWV/6297a2f1e01809629f113598.png",B.i1,o,o),B.j,i,i,new A.bG(B.H,i,i,n,i,i,B.F),i,o,i,i,i,i,o),i,!0,i,i,i,i,i,i,i,i,i,new A.QB(d),i,i,i,i)
+n=b*0.11
 m=A.cR(new A.aK(100,100))
-m=A.dw(!1,!0,A.bi(j,A.tq("https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-instagram-new-logo-vector-download-13.png",B.i1,o,o),B.j,j,j,new A.bG(new A.x(f),j,j,m,j,j,B.F),j,o,j,j,j,j,o),j,!0,j,j,j,j,j,j,j,j,j,new A.QC(e),j,j,j,j)
+n=A.dw(!1,!0,A.bi(i,A.tq("https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png",B.i1,n,n),B.j,i,i,new A.bG(new A.x(e),i,i,m,i,i,B.F),i,n,i,i,i,i,n),i,!0,i,i,i,i,i,i,i,i,i,new A.QC(d),i,i,i,i)
+m=b*0.1
 l=A.cR(new A.aK(100,100))
-k=t.E
-return A.mh(new A.x(i),A.fd(B.ap,A.a([A.bi(j,A.li(A.a([s,r,q,p,new A.c1(B.yh,A.oV(A.a([n,m,A.dw(!1,!0,A.bi(j,A.tq("https://seeklogo.com/images/D/discord-icon-new-2021-logo-09772BF096-seeklogo.com.png",B.vz,o,o),B.j,j,j,new A.bG(new A.x(f),j,j,l,j,j,B.F),j,o,j,j,j,j,o),j,!0,j,j,j,j,j,j,j,j,j,new A.QD(e),j,j,j,j)],k),B.aq,B.ov,B.bt),j)],k),B.aq,B.au),B.j,j,j,j,j,d,j,j,j,j,c),A.cH(new A.hD(new A.ov(j),j),j,j),A.dX(j,A.dw(!1,!0,A.cH(A.o_(B.bQ,new A.x(i),j,40),j,j),j,!0,j,j,j,j,j,j,j,j,j,new A.QE(a),j,j,j,j),j,j,c-70,j,d*0.06,j),A.dX(j,A.cH(new A.hD(A.c5("Myself",j,j,A.bE(j,j,new A.x(i),j,j,j,j,j,h,j,j,25,B.E,j,B.bj,j,j,!0,j,j,j,j,j,j,j,j),j),j),200,200),j,j,c/4-20,j,50,j)],k),B.av))}}
+k=b*0.05
+j=t.E
+return A.mh(new A.x(h),A.fd(B.ap,A.a([A.bi(i,A.li(A.a([s,r,q,p,new A.c1(B.yh,A.oV(A.a([o,n,A.dw(!1,!0,A.bi(i,A.tq("https://i.ibb.co/GWKX1Sv/Discord-Logo-Circle.png",B.vz,k,k),B.j,i,i,new A.bG(new A.x(e),i,i,l,i,i,B.F),i,m,i,i,i,i,m),i,!0,i,i,i,i,i,i,i,i,i,new A.QD(d),i,i,i,i)],j),B.aq,B.ov,B.bt),i)],j),B.aq,B.au),B.j,i,i,i,i,c,i,i,i,i,b),A.cH(new A.hD(new A.ov(i),i),i,i),A.dX(i,A.dw(!1,!0,A.cH(A.o_(B.bQ,new A.x(h),i,40),i,i),i,!0,i,i,i,i,i,i,i,i,i,new A.QE(a),i,i,i,i),i,i,b-70,i,c*0.06,i),A.dX(i,A.cH(new A.hD(A.c5("Myself",i,i,A.bE(i,i,new A.x(h),i,i,i,i,i,g,i,i,25,B.E,i,B.bj,i,i,!0,i,i,i,i,i,i,i,i),i),i),200,200),i,i,b/4-20,i,50,i)],j),B.av))}}
 A.QA.prototype={
 Kn(a){var s=0,r=A.a_(t.H)
 var $async$$1=A.a0(function(b,c){if(b===1)return A.X(c,r)
@@ -62363,7 +62365,7 @@ A.QC.prototype={
 $0(){this.a.$1("https://www.instagram.com/prajyotp.dev/")},
 $S:0}
 A.QD.prototype={
-$0(){this.a.$1("https://www.instagram.com/prajyotp.dev/")},
+$0(){this.a.$1("https://discord.gg/xDTBM4hzwQ")},
 $S:0}
 A.QE.prototype={
 $0(){var s=A.ej(new A.Qz(),null,t.z)
